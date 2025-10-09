@@ -3,15 +3,13 @@ description: "Class of 2026"
 owner_name: Elliot Yang
 github_username: Ellioty15 
 github_repo: "Elliot_2026" 
-baseurl: "/Elliot_2026" 
+baseurl: "/student" 
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/open-coding-society" }
-    - { platform: x, user_url: "https://x.com/Open_Coding" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
+    - { platform: github, user_url: "https://github.com/Ellioty15" }
   nav_pages:
     - navigation/blog.md
     - navigation/search.md
